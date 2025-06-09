@@ -41,6 +41,6 @@ class CommandHandler
         $commandList = array_keys($this->commands);
         $formattedList = implode("\n", $commandList);
 
-        return "📋 Comandos disponíveis:\n" . $formattedList . "\n\nUse qualquer comando para ver uma mensagem personalizada.";
+        return "📋 Comandos disponíveis:\n" . $formattedList . "\n\nUse qualquer comando para ver uma mensagem zoando com algum desses lindos.";
     }
 }
