@@ -22,7 +22,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o RAVisk Bot, execute ```composer install```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando RAVisk Bot
 
 Para usar o RAVisk Bot, execute ```php artisan discord:bot```
 
